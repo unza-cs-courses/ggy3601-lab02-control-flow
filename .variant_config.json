@@ -1,0 +1,29 @@
+{
+  "student_id": "finaltest_lab2",
+  "variant_seed": 7709626804499443849,
+  "group_id": 9,
+  "parameters": {
+    "grade_thresholds": {
+      "high": 2.9,
+      "medium": 1.9,
+      "low": 0.9
+    },
+    "test_samples": [
+      1.6,
+      4.3,
+      0.3,
+      2.4,
+      2.6,
+      4.5,
+      4.6,
+      0.9
+    ],
+    "drilling_depths": [
+      297,
+      756,
+      1000,
+      181
+    ],
+    "base_rate": 60
+  }
+}
